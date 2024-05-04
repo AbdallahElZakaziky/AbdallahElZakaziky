@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **abdallahelzakaziky@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/asuyH](https://shorturl.at/asuyH)
+- 📄 Know about my experiences [My Resume]((https://drive.google.com/file/d/1b2Fj3T3hGpkcqdiZ6bKzFq7izbgiVRmg/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
