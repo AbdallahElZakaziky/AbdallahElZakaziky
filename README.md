@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdallah El Zakaziky</h1>
 <h3 align="center">A passionate Junior Data Scientist from Egypt</h3>
 
-- 🔭 I’m currently working on **My first Data Analysis project**
-
-- 🌱 I’m currently learning **Pandas , Matplotlib , OpenCV , Sklearn**
-
 - 📫 How to reach me **abdallahelzakaziky@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1b2Fj3T3hGpkcqdiZ6bKzFq7izbgiVRmg/view?usp=sharing)
