@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **abdallahelzakaziky@gmail.com**
 
-- 📄 Know about my experiences [My Resume]([https://drive.google.com/file/d/1uW3jtC3g4Vo2xPwSnYCROo8vJEe9iy8Y/view?usp=sharing])
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1uW3jtC3g4Vo2xPwSnYCROo8vJEe9iy8Y/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdallah-el-zakaziky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdallah-el-zakaziky" height="30" width="40" /></a>
