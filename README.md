@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdallah El Zakaziky</h1>
-<h3 align="center">A passionate Junior Data Scientist from Egypt</h3>
+<h3 align="center">A passionate Junior Data Analyst from Egypt</h3>
 
 - 📫 How to reach me **abdallahelzakaziky@gmail.com**
 
